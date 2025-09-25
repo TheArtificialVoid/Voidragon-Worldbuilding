@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/dimensional-stuff/dimensions/"}
+---
+
+This universe has a few dimensions.
+
+[[Dimensional Stuff/The Starzone\|The Starzone]] is the most populated dimension, similar to ours. 
+
+[[Dimensional Stuff/The Othergarden\|The Othergarden]] is an endless garden-scape that hosts all plant-like and fungus-like life from all dimensions.
+
+[[Dimensional Stuff/The Abyss\|The Abyss]] is a empty void-like dimension found within all black holes within the universe. Consider every blackhole as a one-way gateway to this dimension.
+
+[[Dimensional Stuff/The Corpa'aqku\|The Corpa'aqku]] is considered as a soul filter within the universe. 
+
+#dimension 
