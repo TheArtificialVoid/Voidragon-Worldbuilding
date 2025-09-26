@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/magic-and-plans/y-e-s-c-i/"}
 ---
 
-The Yearnara Extreme Size Creature Identifier (or [[Magic and Plans/Y.E.S.C.I.\|Y.E.S.C.I.]]) is used to identify the size of sea dwelling animals throughout the galaxy.
+The Yearnara Extreme Size Creature Identifier (or [[Magic and Plans/Y.E.S.C.I.\|Y.E.S.C.I.]]) is used to identify the size of plants and animals throughout the galaxy.
 
 (Pronouned Ye-sci) YESCI categories follow a linear line, with the larger the size of the sea creature, the further on the scale it is.
 
