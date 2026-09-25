@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/unique-people/the-gardener/"}
+{"dg-publish":true,"permalink":"/unique-people/the-gardener/","dg-note-properties":{}}
 ---
 
 The Gardener is the powerful ruler of the [[Dimensional Stuff/The Othergarden\|The Othergarden]], they protect the entirety of the dimension, through bending the fabric of the dimension to keep all of its life alive.

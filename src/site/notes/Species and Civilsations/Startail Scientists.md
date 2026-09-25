@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species-and-civilsations/startail-scientists/"}
+{"dg-publish":true,"permalink":"/species-and-civilsations/startail-scientists/","dg-note-properties":{}}
 ---
 
 Startail Scientists are the [[Species and Civilsations/Startails\|Startails]]'s primary researchers, for anything relating to science, history, and space-travel.
@@ -9,3 +9,5 @@ Although responsible for the recent public research missions to other planetary 
 One such mission was [[Events/Project Mucora\|Project Mucora]], a research and scouting mission for another home world, which ended in complete disaster.
 
 Many top secret projects with the aid of [[Species and Civilsations/Psynovate Scientists\|Psynovate Scientists]] have been worked on since space-travel between planets was completed.
+
+#Civilisations 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species-and-civilsations/psynovate-scientists/"}
+{"dg-publish":true,"permalink":"/species-and-civilsations/psynovate-scientists/","dg-note-properties":{}}
 ---
 
 Psynovate Scientists are from [[Moons, Planets and Stars/Haloora\|Haloora]].
