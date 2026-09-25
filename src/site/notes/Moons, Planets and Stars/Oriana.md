@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/moons-planets-and-stars/oriana/"}
+{"dg-publish":true,"permalink":"/moons-planets-and-stars/oriana/","dg-note-properties":{}}
 ---
 
 Oriana orbits it's parent star [[Moons, Planets and Stars/Ingi\|Ingi]], being in the middle of the 5 planets.

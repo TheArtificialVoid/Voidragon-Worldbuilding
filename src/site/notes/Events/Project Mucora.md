@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/project-mucora/"}
+{"dg-publish":true,"permalink":"/events/project-mucora/","dg-note-properties":{}}
 ---
 
 Project Murcora was a research project which sent five [[Species and Civilsations/Startail Scientists\|Startail Scientists]] on a small intersystem Vessel called [[Structures and Cities/Mucora I\|Mucora I]] to the planet [[Moons, Planets and Stars/Mucora\|Mucora]] within the [[Planetary Systems/Mykesian System\|Mykesian System]].
@@ -14,5 +14,6 @@ Previous ship recordings recovered during the ship's return to the [[Planetary S
 
 Just before the remotely controlled crash done by the [[Species and Civilsations/Startail Scientists\|Startail Scientists]], one of the few life-pods ejected from the vessel just before entering the [[Planetary Systems/Quilifen System\|Quilifen System]], a few hundred kilometers away from [[Moons, Planets and Stars/Untundria\|Untundria]].
 
+#events 
 
 

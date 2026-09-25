@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/dimensional-stuff/the-othergarden/"}
+{"dg-publish":true,"permalink":"/dimensional-stuff/the-othergarden/","dg-note-properties":{}}
 ---
 
 The Othergarden is a mysterious, infinitely massive Garden-like dimension, that hosts flora found across the universe. 
 
-The Garden mirrors the [[Dimensional Stuff/The Starzone\|The Starzone]], with each planet and moon's flora taking up their own well defined area. Each individual sections of the garden are called a [[The Othergarden/Lifen section\|Lifen section]], with each Lifen section having a varied climate depending on the climate of the planet/moon in [[Dimensional Stuff/The Starzone\|The Starzone]]. Each Lifen Section are bundled together into a [[The Othergarden/Macrosystem section\|Macrosystem section]], which usually are named after the planetary system that the different Lifen sections are based from.
+The Garden mirrors the [[Dimensional Stuff/The Starzone\|The Starzone]], with each planet and moon's flora taking up their own well defined area. Each individual sections of the garden are called a [[The Othergarden/Lifen section\|Lifen section]], with each Lifen section having a varied climate depending on the climate of the planet/moon. Each Lifen Section are bundled together into a [[The Othergarden/Macrosystem section\|Macrosystem section]], which usually are named after the planetary system that the different Lifen sections are based from.
 
-Artificial Structures, such as pathways, garden decoration, pillars allow for easy access across the plane, and some structures such as recent developments such as [[Structures and Cities/Abandoned campsites\|Abandoned campsites]] found throughout the garden, created by early explorers mapping the dimension. The Dimension has been getting harder and harder to map, with distant areas from the [[The Othergarden/Quilifen section\|Quilifen section]] having dangerous/toxic flora throughout.
+Artificial Structures, such as pathways, garden decoration, pillars allow for easy access across the plane, and some structures such as recent developments such as [[Structures and Cities/Abandoned campsites\|Abandoned campsites]] found throughout the garden, created by early [[The Othergarden/Gardeneers\|Gardeneers]] mapping the dimension. The Dimension has been getting harder and harder to map, with distant areas from the [[The Othergarden/Quilifen section\|Quilifen section]] having dangerous/toxic flora throughout.
 
 Due to a strange phenomenon regarding sleeping within the Othergarden, called [[Effects and Conditions/Gardensomnia\|Gardensomnia]], sleeping is impossible within the dimension. Recent explorers however continue to set up campsites to try rest and take inventory on the supplies both gathered and remaining from exploration. 
 

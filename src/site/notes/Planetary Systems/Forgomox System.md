@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/planetary-systems/forgomox-system/"}
+{"dg-publish":true,"permalink":"/planetary-systems/forgomox-system/","dg-note-properties":{}}
 ---
 
 

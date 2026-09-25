@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/planet-ocean-locations/yearnara/"}
+{"dg-publish":true,"permalink":"/planet-ocean-locations/yearnara/","dg-note-properties":{}}
 ---
 
 Yearnara is planet covering ocean that hosts all of the sea life on the planet.
@@ -16,6 +16,12 @@ Some major ecological biomes include;
 - [[Locations on Planets/The Wandering Desert\|The Wandering Desert]]
 - [[Planet Ocean Locations/Nilo's Final Depths\|Nilo's Final Depths]]
 
+Some minor ones Include;
+
+- [[Planet Ocean Locations/Onik's Forest Floor\|Onik's Forest Floor]]
+
 The ocean at its deepest point gets as deep as 12,900 meters, which is where most of the [[Planet Ocean Locations/Nilo's Final Depths\|Nilo's Final Depths]] resides.
 
-The Yearnara Extreme Size Creature Identifier (or [[Magic and Plans/Y.E.S.C.I.\|Y.E.S.C.I.]]) is named after this ocean, and is used to identify the size of sea dwelling animals throughout the galaxy.
+The Yearnara Extreme Size Creature Identifier (or [[Information Systems/Y.E.S.C.I.\|Y.E.S.C.I.]]) is named after this ocean, and is used to identify the size of sea dwelling animals throughout the galaxy.
+
+#oceanlocations

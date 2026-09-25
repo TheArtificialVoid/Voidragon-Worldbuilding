@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/xerk-xee-nuclear-tests/"}
+{"dg-publish":true,"permalink":"/events/xerk-xee-nuclear-tests/","dg-note-properties":{}}
 ---
 
 The Xerk-xee Nuclear Tests (or XXNT) were some of the largest nuclear tests ever carried out in the [[Planetary Systems/Quilifen System\|Quilifen System]]. Four bombs were tested on the surface of [[Moons, Planets and Stars/Rani\|Rani]], to experiment with nuclear weapons in space, and how the surface of Rani reacts with larger nuclear bombs.
@@ -16,6 +16,8 @@ Damages;
 Landgro - Although detonated in space, the flash did blind one of the engineers aboard the [[Structures and Cities/Starship Fermi\|Starship Fermi]].
 Morningstar - Scorched a portion of the surface underneath.
 Brapolo Minor - turned a small portion of the moon to glass, also causing the first crater.
-Brapolo Major - The explosion was so large that it transformed the rest of the [[Moon Locations/Glass Desert\|Glass Desert]] to glass, remelting the glass caused by Brapolo Minor. Brapolo Major also blew up the [[Moon Locations/Broken Terraformer\|Broken Terraformer]] collapsing the tower in seconds.
+Brapolo Major - The explosion was so large that it transformed the rest of the original [[Moon Locations/Glass Desert\|Glass Desert]] to glass, remelting the glass caused by Brapolo Minor. Brapolo Major also blew up the [[Moon Locations/Broken Terraformer\|Broken Terraformer]] collapsing the tower in seconds.
 
 The Nuclear test was named after the [[Unique People/Brapolo Brothers\|Brapolo Brothers]], Xerk Brapolo and Xee Brapolo, the [[Species and Civilsations/Startails\|Startails]] inventors of the Nuclear bomb. 
+
+#events 

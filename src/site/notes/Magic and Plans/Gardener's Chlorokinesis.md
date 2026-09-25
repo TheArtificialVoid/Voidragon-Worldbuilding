@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/magic-and-plans/gardener-s-chlorokinesis/"}
+{"dg-publish":true,"permalink":"/magic-and-plans/gardener-s-chlorokinesis/","dg-note-properties":{}}
 ---
 
 

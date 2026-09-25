@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/moons-planets-and-stars/rani/"}
+{"dg-publish":true,"permalink":"/moons-planets-and-stars/rani/","dg-note-properties":{}}
 ---
 
 Rani is a moon orbiting the planet [[Moons, Planets and Stars/Oriana\|Oriana]]. Famous for its [[Moon Locations/Glass Desert\|Glass Desert]] that reflects the light from [[Moons, Planets and Stars/Ingi\|Ingi]] directly towards [[Moons, Planets and Stars/Oriana\|Oriana]].

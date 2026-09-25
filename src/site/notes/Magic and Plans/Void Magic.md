@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/magic-and-plans/void-magic/"}
+{"dg-publish":true,"permalink":"/magic-and-plans/void-magic/","dg-note-properties":{}}
 ---
 
 Void Magic is a rare version of [[Magic and Plans/Combat Magic\|Combat Magic]] that allows the user to use [[Voidragon Stuff/Void Energy\|Void Energy]] within combat.

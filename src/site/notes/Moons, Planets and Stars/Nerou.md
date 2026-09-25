@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/moons-planets-and-stars/nerou/"}
+{"dg-publish":true,"permalink":"/moons-planets-and-stars/nerou/","dg-note-properties":{}}
 ---
 
 Nerou orbits its parent star [[Moons, Planets and Stars/Ingi\|Ingi]].

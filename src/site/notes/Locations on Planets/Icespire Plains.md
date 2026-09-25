@@ -1,4 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations-on-planets/icespire-plains/"}
+{"dg-publish":true,"permalink":"/locations-on-planets/icespire-plains/","dg-note-properties":{}}
 ---
 
+#locations

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/moons-planets-and-stars/haloora/"}
+{"dg-publish":true,"permalink":"/moons-planets-and-stars/haloora/","dg-note-properties":{}}
 ---
 
 One of the most populated planets in the [[Planetary Systems/Quilifen System\|Quilifen System]]. It orbits its parent star [[Moons, Planets and Stars/Ingi\|Ingi]]. The planet has technology ranging from interspace travel, to medieval style kingdoms and townships, depending on the region. 
@@ -10,7 +10,7 @@ Four continents reside on the planets surface ([[Locations on Planets/Juntoo\|Ju
 
 Martol is the North-Eastern continent, Home to the largest mountain on the planet, [[Locations on Planets/Mount Yunalag\|Mount Yunalag]]. 
 
-Koa is the South-Western continent, home to the planet's capital city, [[Vi Morgania\|Vi Morgania]].
+Koa is the South-Western continent, home to the planet's capital city, [[Locations on Planets/Vi Morgania\|Vi Morgania]].
 
 Juntoo is the South-Eastern continent, home to the largest rainforest on the planet, called the [[Marookite Jungle\|Marookite Jungle]].
 

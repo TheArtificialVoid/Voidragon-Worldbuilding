@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/moons-planets-and-stars/ingi/"}
+{"dg-publish":true,"permalink":"/moons-planets-and-stars/ingi/","dg-note-properties":{}}
 ---
 
 The Sun of the [[Planetary Systems/Quilifen System\|Quilifen System]]. It is a main sequence star. Something lurks inside.
